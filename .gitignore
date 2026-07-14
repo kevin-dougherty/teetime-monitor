@@ -1,0 +1,17 @@
+# Secrets - never commit your real config
+config.env
+
+# Runtime state (auth token, seen-tee-time cache) - contains a live session token
+state/
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+# Python cruft
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+

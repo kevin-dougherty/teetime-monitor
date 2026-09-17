@@ -1,7 +1,7 @@
 # DEPRECATED
 
 The booking API has added a reCAPTCHA token to prevent bots from any type of automation and
-non-browser requests. Although this code was created only for good intent to notify of availble
+non-browser requests. Although this code was created only for good intent to notify of available
 tee times and not to be used to book tee times maliciously, I did not try and pursue any type
 of software to get around the reCAPTCHA.
 
